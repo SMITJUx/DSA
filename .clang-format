@@ -1,0 +1,23 @@
+BasedOnStyle: Microsoft
+ColumnLimit: 120
+
+UseTab: Never
+IndentWidth: 8
+
+PointerAlignment: Right
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignConsecutiveMacros: true
+AlignTrailingComments: true
+
+SpaceAfterCStyleCast: true
+CommentPragmas: '^ NO-FORMAT:'
+
+BinPackParameters: false
+BinPackArguments: false
+
+BreakBeforeBinaryOperators: true
+AlignOperands: true
+
+ExperimentalAutoDetectBinPacking: false
+AllowAllParametersOfDeclarationOnNextLine: false
