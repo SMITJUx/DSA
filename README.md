@@ -2,6 +2,21 @@
 
 The following curated list is ordered by topics. The questions are taken from LeetCode and are aimed to teach the core concepts and techniques used in the vaste majority of problems!
 
+## Core Concepts
+
+### Dynamic Programming
+
+Dynamic programming goal is **to break an optimization problem into simpler sub-problems** while **storing the solution of each sub-problem** so that each sub-problem is only solved once. We can define sub-problems as smaller versions of the original problem.
+
+### Divide and Conquer
+
+Divide and conquer is an algorithmic paradigm to solve problems. A divide and conquer algorithm solves a problem using the following three steps shown in the table bellow.
+| Steps   | Description                                                  |
+|---------|--------------------------------------------------------------|
+| Divide  | Simply divide the problem into sub-problems of the same type |
+| Conquer | Recursively solve these sub-problems                         |
+| Combine | Combine the answers from the sub-problems                    |
+
 ## Array
 
 | Status | Questions                                                                                                   | Implementation Complexity |
