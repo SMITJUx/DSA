@@ -17,6 +17,10 @@ Divide and conquer is an algorithmic paradigm to solve problems. A divide and co
 | Conquer | Recursively solve these sub-problems                         |
 | Combine | Combine the answers from the sub-problems                    |
 
+### Backtracking
+
+Backtracking is an algorithmic technique where the goal is to get all solutions to a problem using the brute-force approach. It uses recursive calling to find a solution set by building a solution step by step. In order to find these solutions, a search tree named **state-space tree** (tree representing all the possible states) is used. A backtracking algorithm uses the depth-first search method on this tree.
+
 ## Array
 
 | Status | Questions                                                                                                   | Implementation Complexity |
