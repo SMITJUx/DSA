@@ -31,3 +31,18 @@ Divide and conquer is an algorithmic paradigm to solve problems. A divide and co
 | ✔      | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | $O(log(n))$               |
 | ✔      | [3Sum](https://leetcode.com/problems/3sum/)                                                                 | $O(n^2)$                  |
 | ✔      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                       | $O(n)$                    |
+
+## String 
+
+| Status | Questions                                                                                                                       | Implementation Complexity |
+|--------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| ✔      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | $O(n)$                    |
+| ✔      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | $O(n)$                    |
+| ✔      | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | $O(n)$                    |
+| ✔      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | $O(n)$                    |
+| ✔      | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | $O(n)$                    |
+| ✔      | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | $O(nlog(n))$              |
+| ✔      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | $O(n^2)$                  |
+| ✔      | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | $O(n^2)$                  |
+| ✔      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | $O(4^n)$                  |
+| ✔      | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | $O(n)$                    |
