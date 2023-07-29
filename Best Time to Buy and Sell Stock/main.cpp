@@ -14,16 +14,18 @@ class Solution
       public:
         int maxProfit(vector<int> &prices)
         {
-                int currentMin = prices[0];
-                int maxProfit  = 0;
+                int min_price  = prices[0];
+                int max_profit = 0;
 
-                for (const int &price : prices)
+                for (size_t i = 1; i < prices.size(); i++)
                 {
-                        currentMin = min(currentMin, price);
-                        maxProfit  = max(maxProfit, price - currentMin);
+                        if (prices[i] > prices[i - 1])
+                                max_profit = max(max_profit, prices[i] - min_price);
+                        else
+                                min_price = min(min_price, prices[i]);
                 }
 
-                return maxProfit;
+                return max_profit;
         }
 };
 
