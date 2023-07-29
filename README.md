@@ -58,3 +58,9 @@ Backtracking is an algorithmic technique where the goal is to get all solutions 
 | Status | Questions                                                                        | Implementation Complexity |
 | ------ | -------------------------------------------------------------------------------- | ------------------------- |
 | ✔      | [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | $O(n)$                    |
+
+## Binary Tree
+
+| Status | Questions                                                                        | Implementation Complexity |
+| ------ | -------------------------------------------------------------------------------- | ------------------------- |
+| ✔      | [Invert Binary Tree Question](https://leetcode.com/problems/invert-binary-tree/) | $O(n)$                    |
