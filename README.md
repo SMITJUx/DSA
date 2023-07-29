@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt=“banner” width="100%">
 
-__*The following curated list is ordered by topics. The questions are taken from LeetCode and are aimed to teach the core concepts and techniques used in the vaste majority of problems!*__
+**_The following curated list is ordered by topics. The questions are taken from LeetCode and are aimed to teach the core concepts and techniques used in the vaste majority of problems!_**
 
 ## Core Concepts
 
@@ -13,11 +13,11 @@ Dynamic programming goal is **to break an optimization problem into simpler sub-
 ### Divide and Conquer
 
 Divide and conquer is an algorithmic paradigm to solve problems. A divide and conquer algorithm solves a problem using the following three steps shown in the table bellow.
-| Steps   | Description                                                  |
+| Steps | Description |
 |---------|--------------------------------------------------------------|
-| Divide  | Simply divide the problem into sub-problems of the same type |
-| Conquer | Recursively solve these sub-problems                         |
-| Combine | Combine the answers from the sub-problems                    |
+| Divide | Simply divide the problem into sub-problems of the same type |
+| Conquer | Recursively solve these sub-problems |
+| Combine | Combine the answers from the sub-problems |
 
 ### Backtracking
 
@@ -26,7 +26,7 @@ Backtracking is an algorithmic technique where the goal is to get all solutions 
 ## Array
 
 | Status | Questions                                                                                                   | Implementation Complexity |
-|--------|-------------------------------------------------------------------------------------------------------------|---------------------------|
+| ------ | ----------------------------------------------------------------------------------------------------------- | ------------------------- |
 | ✔      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                           | $O(n)$                    |
 | ✔      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)           | $O(n)$                    |
 | ✔      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                     | $O(n)$                    |
@@ -38,10 +38,10 @@ Backtracking is an algorithmic technique where the goal is to get all solutions 
 | ✔      | [3Sum](https://leetcode.com/problems/3sum/)                                                                 | $O(n^2)$                  |
 | ✔      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                       | $O(n)$                    |
 
-## String 
+## String
 
 | Status | Questions                                                                                                                       | Implementation Complexity |
-|--------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | ✔      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | $O(n)$                    |
 | ✔      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | $O(n)$                    |
 | ✔      | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | $O(n)$                    |
@@ -52,3 +52,9 @@ Backtracking is an algorithmic technique where the goal is to get all solutions 
 | ✔      | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | $O(n^2)$                  |
 | ✔      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | $O(4^n)$                  |
 | ✔      | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | $O(n)$                    |
+
+## Linked List
+
+| Status | Questions                                                                        | Implementation Complexity |
+| ------ | -------------------------------------------------------------------------------- | ------------------------- |
+| ✔      | [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | $O(n)$                    |
